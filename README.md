@@ -1,4 +1,5 @@
 # FileZilla Server – 在校內 (同網段) 架設 FTP 服務教學
+[English Version](./README_EN.md)
 
 本教學示範如何在 **Windows** 系統上，使用最新版 **FileZilla Server**（v1.x 之後）架設一個僅供校園或機構內網（同網段）使用的 **FTP** 服務。
 
