@@ -135,7 +135,7 @@ Server → Configure
   - On the server machine, run `ipconfig` in CMD to locate an IP like `192.168.x.x` or `10.x.x.x`.
 
 2. **Use FileZilla Client on another PC**  
-  - Host: the server’s IP (e.g., `192.168.50.52`)  
+  - Host: the server’s IP (e.g., `192.168.x.x`)  
 - Username: `TestUser`  
 - Password: `MySecret123`  
 - Port: `21`  
