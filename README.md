@@ -1,5 +1,5 @@
 # FileZilla Server – Setting Up an FTP Service on a Local (Intranet) Network
-[中文版連結](./README.md)
+[中文版連結](./README_CN.md)
 
 This guide demonstrates how to configure **FileZilla Server** (version 1.x or later) on a **Windows** system to set up a straightforward FTP service accessible within your institution’s or campus’s local network (same subnet). It does **not** rely on Windows system credentials, but uses FileZilla Server’s own user accounts for simplicity and reduced permission complexity.
 
