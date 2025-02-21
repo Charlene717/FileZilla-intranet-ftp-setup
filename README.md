@@ -28,7 +28,7 @@
 ## 步驟 1：下載並安裝 FileZilla Server
 
 1. **前往官網下載**  
-   - 造訪 [FileZilla 官網](https://filezilla-project.org/download.php?type=server)，下載「FileZilla Server」(非 FileZilla Client)。
+   - 造訪 [FileZilla 官網](https://filezilla-project.org/)，下載「FileZilla Server」(非 FileZilla Client)。
 
 2. **執行安裝**  
    - 可接受預設安裝選項，無特別需求時相對簡單。  
